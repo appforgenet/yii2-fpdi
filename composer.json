@@ -13,7 +13,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-		"appforge/yii2-fpdf": "*",
+        "appforge/yii2-fpdf": "*"
     },
     "autoload": {
 	"classmap": ["lib"]
