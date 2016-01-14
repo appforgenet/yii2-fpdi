@@ -2,7 +2,7 @@
     "name": "appforge/yii2-fpdi",
     "description": "Import pages from existing PDF documents and use them as templates in FPDF",
     "type": "yii2-extension",
-	"homepage": "https://github.com/appforgenet/yii2-fpdi",
+    "homepage": "https://github.com/appforgenet/yii2-fpdi",
     "keywords": ["yii2","extension","fpdi","pdf"],
     "license": "BSD-3-Clause",
 	"minimum-stability": "dev",
@@ -14,9 +14,9 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-		"appforge/yii2-fpdf": "*",
+        "appforge/yii2-fpdf": "*"
     },
     "autoload": {
-        "classmap": ["lib"]
+	"classmap": ["lib"]
     }
 }
